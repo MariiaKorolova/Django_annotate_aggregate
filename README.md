@@ -1,1 +1,3 @@
 # Django_annotate_aggregate
+
+Homework: Django_annotate_aggregate

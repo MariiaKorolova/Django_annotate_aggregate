@@ -1,0 +1,2668 @@
+[
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "dbvghbfUUUop=",
+        "last_login": "2023-04-09T19:55:31.857Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "masha.kor@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-04-09T19:55:31.857Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "books.author",
+    "pk": 1,
+    "fields": {
+        "name": "Author 1",
+        "age": 67
+    }
+},
+{
+    "model": "books.author",
+    "pk": 2,
+    "fields": {
+        "name": "Author 2",
+        "age": 34
+    }
+},
+{
+    "model": "books.author",
+    "pk": 3,
+    "fields": {
+        "name": "Author 3",
+        "age": 42
+    }
+},
+{
+    "model": "books.author",
+    "pk": 4,
+    "fields": {
+        "name": "Author 4",
+        "age": 50
+    }
+},
+{
+    "model": "books.author",
+    "pk": 5,
+    "fields": {
+        "name": "Author 5",
+        "age": 31
+    }
+},
+{
+    "model": "books.author",
+    "pk": 6,
+    "fields": {
+        "name": "Author 6",
+        "age": 24
+    }
+},
+{
+    "model": "books.author",
+    "pk": 7,
+    "fields": {
+        "name": "Author 7",
+        "age": 56
+    }
+},
+{
+    "model": "books.author",
+    "pk": 8,
+    "fields": {
+        "name": "Author 8",
+        "age": 70
+    }
+},
+{
+    "model": "books.author",
+    "pk": 9,
+    "fields": {
+        "name": "Author 9",
+        "age": 87
+    }
+},
+{
+    "model": "books.author",
+    "pk": 10,
+    "fields": {
+        "name": "Author 10",
+        "age": 67
+    }
+},
+{
+    "model": "books.author",
+    "pk": 11,
+    "fields": {
+        "name": "Author 11",
+        "age": 52
+    }
+},
+{
+    "model": "books.author",
+    "pk": 12,
+    "fields": {
+        "name": "Author 12",
+        "age": 45
+    }
+},
+{
+    "model": "books.author",
+    "pk": 13,
+    "fields": {
+        "name": "Author 13",
+        "age": 36
+    }
+},
+{
+    "model": "books.author",
+    "pk": 14,
+    "fields": {
+        "name": "Author 14",
+        "age": 56
+    }
+},
+{
+    "model": "books.author",
+    "pk": 15,
+    "fields": {
+        "name": "Author 15",
+        "age": 78
+    }
+},
+{
+    "model": "books.author",
+    "pk": 16,
+    "fields": {
+        "name": "Author 16",
+        "age": 97
+    }
+},
+{
+    "model": "books.author",
+    "pk": 17,
+    "fields": {
+        "name": "Author 17",
+        "age": 18
+    }
+},
+{
+    "model": "books.author",
+    "pk": 18,
+    "fields": {
+        "name": "Author 18",
+        "age": 19
+    }
+},
+{
+    "model": "books.author",
+    "pk": 19,
+    "fields": {
+        "name": "Author 19",
+        "age": 20
+    }
+},
+{
+    "model": "books.author",
+    "pk": 20,
+    "fields": {
+        "name": "Author 20",
+        "age": 32
+    }
+},
+{
+    "model": "books.author",
+    "pk": 21,
+    "fields": {
+        "name": "Author 21",
+        "age": 45
+    }
+},
+{
+    "model": "books.author",
+    "pk": 22,
+    "fields": {
+        "name": "Author 22",
+        "age": 68
+    }
+},
+{
+    "model": "books.author",
+    "pk": 23,
+    "fields": {
+        "name": "Author 23",
+        "age": 43
+    }
+},
+{
+    "model": "books.author",
+    "pk": 24,
+    "fields": {
+        "name": "Author 24",
+        "age": 66
+    }
+},
+{
+    "model": "books.author",
+    "pk": 25,
+    "fields": {
+        "name": "Author 25",
+        "age": 77
+    }
+},
+{
+    "model": "books.author",
+    "pk": 26,
+    "fields": {
+        "name": "Author 26",
+        "age": 88
+    }
+},
+{
+    "model": "books.author",
+    "pk": 27,
+    "fields": {
+        "name": "Author 27",
+        "age": 49
+    }
+},
+{
+    "model": "books.author",
+    "pk": 28,
+    "fields": {
+        "name": "Author 28",
+        "age": 50
+    }
+},
+{
+    "model": "books.author",
+    "pk": 29,
+    "fields": {
+        "name": "Author 29",
+        "age": 58
+    }
+},
+{
+    "model": "books.author",
+    "pk": 30,
+    "fields": {
+        "name": "Author 30",
+        "age": 66
+    }
+},
+{
+    "model": "books.author",
+    "pk": 31,
+    "fields": {
+        "name": "Author 31",
+        "age": 55
+    }
+},
+{
+    "model": "books.author",
+    "pk": 32,
+    "fields": {
+        "name": "Author 32",
+        "age": 66
+    }
+},
+{
+    "model": "books.author",
+    "pk": 33,
+    "fields": {
+        "name": "Author 33",
+        "age": 62
+    }
+},
+{
+    "model": "books.author",
+    "pk": 34,
+    "fields": {
+        "name": "Author 34",
+        "age": 35
+    }
+},
+{
+    "model": "books.author",
+    "pk": 35,
+    "fields": {
+        "name": "Author 35",
+        "age": 36
+    }
+},
+{
+    "model": "books.author",
+    "pk": 36,
+    "fields": {
+        "name": "Author 36",
+        "age": 64
+    }
+},
+{
+    "model": "books.author",
+    "pk": 37,
+    "fields": {
+        "name": "Author 37",
+        "age": 41
+    }
+},
+{
+    "model": "books.author",
+    "pk": 38,
+    "fields": {
+        "name": "Author 38",
+        "age": 58
+    }
+},
+{
+    "model": "books.author",
+    "pk": 39,
+    "fields": {
+        "name": "Author 39",
+        "age": 50
+    }
+},
+{
+    "model": "books.author",
+    "pk": 40,
+    "fields": {
+        "name": "Author 40",
+        "age": 45
+    }
+},
+{
+    "model": "books.author",
+    "pk": 41,
+    "fields": {
+        "name": "Author 41",
+        "age": 54
+    }
+},
+{
+    "model": "books.author",
+    "pk": 42,
+    "fields": {
+        "name": "Author 42",
+        "age": 74
+    }
+},
+{
+    "model": "books.author",
+    "pk": 43,
+    "fields": {
+        "name": "Author 43",
+        "age": 37
+    }
+},
+{
+    "model": "books.author",
+    "pk": 44,
+    "fields": {
+        "name": "Author 44",
+        "age": 74
+    }
+},
+{
+    "model": "books.author",
+    "pk": 45,
+    "fields": {
+        "name": "Author 45",
+        "age": 57
+    }
+},
+{
+    "model": "books.author",
+    "pk": 46,
+    "fields": {
+        "name": "Author 46",
+        "age": 34
+    }
+},
+{
+    "model": "books.author",
+    "pk": 47,
+    "fields": {
+        "name": "Author 47",
+        "age": 51
+    }
+},
+{
+    "model": "books.author",
+    "pk": 48,
+    "fields": {
+        "name": "Author 48",
+        "age": 67
+    }
+},
+{
+    "model": "books.author",
+    "pk": 49,
+    "fields": {
+        "name": "Author 49",
+        "age": 80
+    }
+},
+{
+    "model": "books.author",
+    "pk": 50,
+    "fields": {
+        "name": "Author 50",
+        "age": 41
+    }
+},
+{
+    "model": "books.author",
+    "pk": 51,
+    "fields": {
+        "name": "Author 51",
+        "age": 47
+    }
+},
+{
+    "model": "books.author",
+    "pk": 52,
+    "fields": {
+        "name": "Author 52",
+        "age": 20
+    }
+},
+{
+    "model": "books.author",
+    "pk": 53,
+    "fields": {
+        "name": "Author 53",
+        "age": 52
+    }
+},
+{
+    "model": "books.author",
+    "pk": 54,
+    "fields": {
+        "name": "Author 54",
+        "age": 61
+    }
+},
+{
+    "model": "books.author",
+    "pk": 55,
+    "fields": {
+        "name": "Author 55",
+        "age": 51
+    }
+},
+{
+    "model": "books.author",
+    "pk": 56,
+    "fields": {
+        "name": "Author 56",
+        "age": 57
+    }
+},
+{
+    "model": "books.author",
+    "pk": 57,
+    "fields": {
+        "name": "Author 57",
+        "age": 78
+    }
+},
+{
+    "model": "books.author",
+    "pk": 58,
+    "fields": {
+        "name": "Author 58",
+        "age": 28
+    }
+},
+{
+    "model": "books.author",
+    "pk": 59,
+    "fields": {
+        "name": "Author 59",
+        "age": 69
+    }
+},
+{
+    "model": "books.author",
+    "pk": 60,
+    "fields": {
+        "name": "Author 60",
+        "age": 40
+    }
+},
+{
+    "model": "books.author",
+    "pk": 61,
+    "fields": {
+        "name": "Author 61",
+        "age": 30
+    }
+},
+{
+    "model": "books.author",
+    "pk": 62,
+    "fields": {
+        "name": "Author 62",
+        "age": 25
+    }
+},
+{
+    "model": "books.author",
+    "pk": 63,
+    "fields": {
+        "name": "Author 63",
+        "age": 23
+    }
+},
+{
+    "model": "books.author",
+    "pk": 64,
+    "fields": {
+        "name": "Author 64",
+        "age": 74
+    }
+},
+{
+    "model": "books.author",
+    "pk": 65,
+    "fields": {
+        "name": "Author 65",
+        "age": 43
+    }
+},
+{
+    "model": "books.author",
+    "pk": 66,
+    "fields": {
+        "name": "Author 66",
+        "age": 34
+    }
+},
+{
+    "model": "books.author",
+    "pk": 67,
+    "fields": {
+        "name": "Author 67",
+        "age": 25
+    }
+},
+{
+    "model": "books.author",
+    "pk": 68,
+    "fields": {
+        "name": "Author 68",
+        "age": 20
+    }
+},
+{
+    "model": "books.author",
+    "pk": 69,
+    "fields": {
+        "name": "Author 69",
+        "age": 67
+    }
+},
+{
+    "model": "books.author",
+    "pk": 70,
+    "fields": {
+        "name": "Author 70",
+        "age": 23
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 1,
+    "fields": {
+        "name": "Publisher 1"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 2,
+    "fields": {
+        "name": "Publisher 2"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 3,
+    "fields": {
+        "name": "Publisher 3"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 4,
+    "fields": {
+        "name": "Publisher 4"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 5,
+    "fields": {
+        "name": "Publisher 5"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 6,
+    "fields": {
+        "name": "Publisher 6"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 7,
+    "fields": {
+        "name": "Publisher 7"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 8,
+    "fields": {
+        "name": "Publisher 8"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 9,
+    "fields": {
+        "name": "Publisher 9"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 10,
+    "fields": {
+        "name": "Publisher 10"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 11,
+    "fields": {
+        "name": "Publisher 11"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 12,
+    "fields": {
+        "name": "Publisher 12"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 13,
+    "fields": {
+        "name": "Publisher 13"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 14,
+    "fields": {
+        "name": "Publisher 14"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 15,
+    "fields": {
+        "name": "Publisher 15"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 16,
+    "fields": {
+        "name": "Publisher 16"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 17,
+    "fields": {
+        "name": "Publisher 17"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 18,
+    "fields": {
+        "name": "Publisher 18"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 19,
+    "fields": {
+        "name": "Publisher 19"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 20,
+    "fields": {
+        "name": "Publisher 20"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 21,
+    "fields": {
+        "name": "Publisher 21"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 22,
+    "fields": {
+        "name": "Publisher 22"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 23,
+    "fields": {
+        "name": "Publisher 23"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 24,
+    "fields": {
+        "name": "Publisher 24"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 25,
+    "fields": {
+        "name": "Publisher 25"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 26,
+    "fields": {
+        "name": "Publisher 26"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 27,
+    "fields": {
+        "name": "Publisher 27"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 28,
+    "fields": {
+        "name": "Publisher 28"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 29,
+    "fields": {
+        "name": "Publisher 29"
+    }
+},
+{
+    "model": "books.publisher",
+    "pk": 30,
+    "fields": {
+        "name": "Publisher 30"
+    }
+},
+{
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+        "name": "Book 1",
+        "pages": 426,
+        "price": "42.43",
+        "rating": 0.2,
+        "publisher": 7,
+        "pubdate": "2023-04-03",
+        "authors": [
+            15,
+            49
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+        "name": "Book 2",
+        "pages": 464,
+        "price": "7.51",
+        "rating": 3.8,
+        "publisher": 10,
+        "pubdate": "2023-04-03",
+        "authors": [
+            58
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+        "name": "Book 3",
+        "pages": 287,
+        "price": "23.57",
+        "rating": 3.6,
+        "publisher": 24,
+        "pubdate": "2023-04-03",
+        "authors": [
+            67
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+        "name": "Book 4",
+        "pages": 74,
+        "price": "7.12",
+        "rating": 0.4,
+        "publisher": 18,
+        "pubdate": "2023-04-03",
+        "authors": [
+            63
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+        "name": "Book 5",
+        "pages": 646,
+        "price": "7.14",
+        "rating": 1.5,
+        "publisher": 25,
+        "pubdate": "2023-04-03",
+        "authors": [
+            10,
+            27
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+        "name": "Book 6",
+        "pages": 302,
+        "price": "32.73",
+        "rating": 4.0,
+        "publisher": 3,
+        "pubdate": "2023-04-03",
+        "authors": [
+            49,
+            64
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 7,
+    "fields": {
+        "name": "Book 7",
+        "pages": 756,
+        "price": "45.20",
+        "rating": 0.6,
+        "publisher": 13,
+        "pubdate": "2023-04-03",
+        "authors": [
+            5,
+            22
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 8,
+    "fields": {
+        "name": "Book 8",
+        "pages": 256,
+        "price": "21.85",
+        "rating": 2.1,
+        "publisher": 13,
+        "pubdate": "2023-04-03",
+        "authors": [
+            35,
+            50
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 9,
+    "fields": {
+        "name": "Book 9",
+        "pages": 449,
+        "price": "34.74",
+        "rating": 2.8,
+        "publisher": 6,
+        "pubdate": "2023-04-03",
+        "authors": [
+            66
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 10,
+    "fields": {
+        "name": "Book 10",
+        "pages": 318,
+        "price": "10.84",
+        "rating": 0.8,
+        "publisher": 25,
+        "pubdate": "2023-04-03",
+        "authors": [
+            43,
+            63
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 11,
+    "fields": {
+        "name": "Book 11",
+        "pages": 329,
+        "price": "43.27",
+        "rating": 0.3,
+        "publisher": 16,
+        "pubdate": "2023-04-03",
+        "authors": [
+            5,
+            24
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 12,
+    "fields": {
+        "name": "Book 12",
+        "pages": 683,
+        "price": "46.25",
+        "rating": 0.6,
+        "publisher": 21,
+        "pubdate": "2023-04-03",
+        "authors": [
+            20
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 13,
+    "fields": {
+        "name": "Book 13",
+        "pages": 885,
+        "price": "49.04",
+        "rating": 0.6,
+        "publisher": 1,
+        "pubdate": "2023-04-03",
+        "authors": [
+            42,
+            51
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 14,
+    "fields": {
+        "name": "Book 14",
+        "pages": 292,
+        "price": "48.09",
+        "rating": 2.7,
+        "publisher": 17,
+        "pubdate": "2023-04-03",
+        "authors": [
+            43
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 15,
+    "fields": {
+        "name": "Book 15",
+        "pages": 836,
+        "price": "15.79",
+        "rating": 0.6,
+        "publisher": 13,
+        "pubdate": "2023-04-03",
+        "authors": [
+            64
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 16,
+    "fields": {
+        "name": "Book 16",
+        "pages": 274,
+        "price": "28.73",
+        "rating": 0.9,
+        "publisher": 26,
+        "pubdate": "2023-04-03",
+        "authors": [
+            43
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 17,
+    "fields": {
+        "name": "Book 17",
+        "pages": 261,
+        "price": "49.99",
+        "rating": 3.8,
+        "publisher": 19,
+        "pubdate": "2023-04-03",
+        "authors": [
+            61
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 18,
+    "fields": {
+        "name": "Book 18",
+        "pages": 221,
+        "price": "40.31",
+        "rating": 2.4,
+        "publisher": 1,
+        "pubdate": "2023-04-03",
+        "authors": [
+            68
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 19,
+    "fields": {
+        "name": "Book 19",
+        "pages": 872,
+        "price": "31.94",
+        "rating": 1.9,
+        "publisher": 6,
+        "pubdate": "2023-04-03",
+        "authors": [
+            29
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 20,
+    "fields": {
+        "name": "Book 20",
+        "pages": 320,
+        "price": "41.67",
+        "rating": 1.5,
+        "publisher": 26,
+        "pubdate": "2023-04-03",
+        "authors": [
+            33
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 21,
+    "fields": {
+        "name": "Book 21",
+        "pages": 182,
+        "price": "3.03",
+        "rating": 3.9,
+        "publisher": 3,
+        "pubdate": "2023-04-03",
+        "authors": [
+            57
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 22,
+    "fields": {
+        "name": "Book 22",
+        "pages": 216,
+        "price": "9.62",
+        "rating": 4.7,
+        "publisher": 14,
+        "pubdate": "2023-04-03",
+        "authors": [
+            34,
+            59
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 23,
+    "fields": {
+        "name": "Book 23",
+        "pages": 744,
+        "price": "17.36",
+        "rating": 3.1,
+        "publisher": 6,
+        "pubdate": "2023-04-03",
+        "authors": [
+            17
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 24,
+    "fields": {
+        "name": "Book 24",
+        "pages": 121,
+        "price": "43.94",
+        "rating": 2.1,
+        "publisher": 15,
+        "pubdate": "2023-04-03",
+        "authors": [
+            19,
+            24
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 25,
+    "fields": {
+        "name": "Book 25",
+        "pages": 977,
+        "price": "45.29",
+        "rating": 0.2,
+        "publisher": 6,
+        "pubdate": "2023-04-03",
+        "authors": [
+            16,
+            38
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 26,
+    "fields": {
+        "name": "Book 26",
+        "pages": 525,
+        "price": "16.33",
+        "rating": 1.3,
+        "publisher": 21,
+        "pubdate": "2023-04-03",
+        "authors": [
+            10
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 27,
+    "fields": {
+        "name": "Book 27",
+        "pages": 458,
+        "price": "26.48",
+        "rating": 3.8,
+        "publisher": 10,
+        "pubdate": "2023-04-03",
+        "authors": [
+            17,
+            41
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 28,
+    "fields": {
+        "name": "Book 28",
+        "pages": 698,
+        "price": "18.35",
+        "rating": 0.4,
+        "publisher": 30,
+        "pubdate": "2023-04-03",
+        "authors": [
+            22
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 29,
+    "fields": {
+        "name": "Book 29",
+        "pages": 876,
+        "price": "47.13",
+        "rating": 3.1,
+        "publisher": 12,
+        "pubdate": "2023-04-03",
+        "authors": [
+            16,
+            18
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 30,
+    "fields": {
+        "name": "Book 30",
+        "pages": 449,
+        "price": "44.45",
+        "rating": 1.7,
+        "publisher": 8,
+        "pubdate": "2023-04-03",
+        "authors": [
+            60,
+            62
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 31,
+    "fields": {
+        "name": "Book 31",
+        "pages": 804,
+        "price": "28.49",
+        "rating": 1.2,
+        "publisher": 14,
+        "pubdate": "2023-04-03",
+        "authors": [
+            25
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 32,
+    "fields": {
+        "name": "Book 32",
+        "pages": 671,
+        "price": "48.74",
+        "rating": 4.4,
+        "publisher": 18,
+        "pubdate": "2023-04-03",
+        "authors": [
+            18
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 33,
+    "fields": {
+        "name": "Book 33",
+        "pages": 528,
+        "price": "4.82",
+        "rating": 3.2,
+        "publisher": 3,
+        "pubdate": "2023-04-03",
+        "authors": [
+            26,
+            30
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 34,
+    "fields": {
+        "name": "Book 34",
+        "pages": 330,
+        "price": "7.54",
+        "rating": 4.4,
+        "publisher": 14,
+        "pubdate": "2023-04-03",
+        "authors": [
+            16
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 35,
+    "fields": {
+        "name": "Book 35",
+        "pages": 737,
+        "price": "4.93",
+        "rating": 2.7,
+        "publisher": 3,
+        "pubdate": "2023-04-03",
+        "authors": [
+            6
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 36,
+    "fields": {
+        "name": "Book 36",
+        "pages": 906,
+        "price": "47.87",
+        "rating": 3.6,
+        "publisher": 15,
+        "pubdate": "2023-04-03",
+        "authors": [
+            59,
+            68
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 37,
+    "fields": {
+        "name": "Book 37",
+        "pages": 404,
+        "price": "33.05",
+        "rating": 4.3,
+        "publisher": 29,
+        "pubdate": "2023-04-03",
+        "authors": [
+            49,
+            58
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 38,
+    "fields": {
+        "name": "Book 38",
+        "pages": 671,
+        "price": "31.28",
+        "rating": 2.6,
+        "publisher": 28,
+        "pubdate": "2023-04-03",
+        "authors": [
+            22
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 39,
+    "fields": {
+        "name": "Book 39",
+        "pages": 724,
+        "price": "20.74",
+        "rating": 1.8,
+        "publisher": 7,
+        "pubdate": "2023-04-03",
+        "authors": [
+            8,
+            35
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 40,
+    "fields": {
+        "name": "Book 40",
+        "pages": 842,
+        "price": "35.97",
+        "rating": 0.3,
+        "publisher": 12,
+        "pubdate": "2023-04-03",
+        "authors": [
+            27
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 41,
+    "fields": {
+        "name": "Book 41",
+        "pages": 668,
+        "price": "45.46",
+        "rating": 4.4,
+        "publisher": 27,
+        "pubdate": "2023-04-03",
+        "authors": [
+            49
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 42,
+    "fields": {
+        "name": "Book 42",
+        "pages": 99,
+        "price": "15.42",
+        "rating": 0.2,
+        "publisher": 12,
+        "pubdate": "2023-04-03",
+        "authors": [
+            35,
+            67
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 43,
+    "fields": {
+        "name": "Book 43",
+        "pages": 882,
+        "price": "17.42",
+        "rating": 4.9,
+        "publisher": 18,
+        "pubdate": "2023-04-03",
+        "authors": [
+            45
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 44,
+    "fields": {
+        "name": "Book 44",
+        "pages": 356,
+        "price": "36.19",
+        "rating": 1.3,
+        "publisher": 25,
+        "pubdate": "2023-04-03",
+        "authors": [
+            30
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 45,
+    "fields": {
+        "name": "Book 45",
+        "pages": 62,
+        "price": "43.71",
+        "rating": 0.9,
+        "publisher": 6,
+        "pubdate": "2023-04-03",
+        "authors": [
+            16,
+            34
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 46,
+    "fields": {
+        "name": "Book 46",
+        "pages": 924,
+        "price": "18.20",
+        "rating": 3.9,
+        "publisher": 28,
+        "pubdate": "2023-04-03",
+        "authors": [
+            49
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 47,
+    "fields": {
+        "name": "Book 47",
+        "pages": 557,
+        "price": "6.56",
+        "rating": 2.5,
+        "publisher": 28,
+        "pubdate": "2023-04-03",
+        "authors": [
+            32
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 48,
+    "fields": {
+        "name": "Book 48",
+        "pages": 818,
+        "price": "47.13",
+        "rating": 3.3,
+        "publisher": 10,
+        "pubdate": "2023-04-03",
+        "authors": [
+            27,
+            62
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 49,
+    "fields": {
+        "name": "Book 49",
+        "pages": 899,
+        "price": "25.57",
+        "rating": 2.3,
+        "publisher": 4,
+        "pubdate": "2023-04-03",
+        "authors": [
+            53
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 50,
+    "fields": {
+        "name": "Book 50",
+        "pages": 721,
+        "price": "37.57",
+        "rating": 2.3,
+        "publisher": 25,
+        "pubdate": "2023-04-03",
+        "authors": [
+            5,
+            27
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 51,
+    "fields": {
+        "name": "Book 51",
+        "pages": 556,
+        "price": "3.40",
+        "rating": 3.2,
+        "publisher": 12,
+        "pubdate": "2023-04-03",
+        "authors": [
+            54
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 52,
+    "fields": {
+        "name": "Book 52",
+        "pages": 239,
+        "price": "29.31",
+        "rating": 3.0,
+        "publisher": 1,
+        "pubdate": "2023-04-03",
+        "authors": [
+            62
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 53,
+    "fields": {
+        "name": "Book 53",
+        "pages": 289,
+        "price": "9.38",
+        "rating": 2.4,
+        "publisher": 22,
+        "pubdate": "2023-04-03",
+        "authors": [
+            4,
+            24
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 54,
+    "fields": {
+        "name": "Book 54",
+        "pages": 973,
+        "price": "10.85",
+        "rating": 2.8,
+        "publisher": 30,
+        "pubdate": "2023-04-03",
+        "authors": [
+            15
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 55,
+    "fields": {
+        "name": "Book 55",
+        "pages": 804,
+        "price": "29.19",
+        "rating": 1.3,
+        "publisher": 20,
+        "pubdate": "2023-04-03",
+        "authors": [
+            64
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 56,
+    "fields": {
+        "name": "Book 56",
+        "pages": 568,
+        "price": "26.28",
+        "rating": 3.1,
+        "publisher": 16,
+        "pubdate": "2023-04-03",
+        "authors": [
+            31
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 57,
+    "fields": {
+        "name": "Book 57",
+        "pages": 501,
+        "price": "12.45",
+        "rating": 3.2,
+        "publisher": 17,
+        "pubdate": "2023-04-03",
+        "authors": [
+            53,
+            56
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 58,
+    "fields": {
+        "name": "Book 58",
+        "pages": 877,
+        "price": "31.27",
+        "rating": 0.9,
+        "publisher": 12,
+        "pubdate": "2023-04-03",
+        "authors": [
+            18,
+            31
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 59,
+    "fields": {
+        "name": "Book 59",
+        "pages": 375,
+        "price": "3.27",
+        "rating": 3.8,
+        "publisher": 13,
+        "pubdate": "2023-04-03",
+        "authors": [
+            12
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 60,
+    "fields": {
+        "name": "Book 60",
+        "pages": 151,
+        "price": "40.41",
+        "rating": 0.1,
+        "publisher": 4,
+        "pubdate": "2023-04-03",
+        "authors": [
+            12,
+            58
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 61,
+    "fields": {
+        "name": "Book 61",
+        "pages": 872,
+        "price": "20.60",
+        "rating": 1.3,
+        "publisher": 20,
+        "pubdate": "2023-04-03",
+        "authors": [
+            7,
+            54
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 62,
+    "fields": {
+        "name": "Book 62",
+        "pages": 840,
+        "price": "38.37",
+        "rating": 1.0,
+        "publisher": 12,
+        "pubdate": "2023-04-03",
+        "authors": [
+            32
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 63,
+    "fields": {
+        "name": "Book 63",
+        "pages": 867,
+        "price": "40.41",
+        "rating": 0.7,
+        "publisher": 4,
+        "pubdate": "2023-04-03",
+        "authors": [
+            39,
+            70
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 64,
+    "fields": {
+        "name": "Book 64",
+        "pages": 214,
+        "price": "9.39",
+        "rating": 0.1,
+        "publisher": 17,
+        "pubdate": "2023-04-03",
+        "authors": [
+            20,
+            47
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 65,
+    "fields": {
+        "name": "Book 65",
+        "pages": 683,
+        "price": "21.27",
+        "rating": 1.6,
+        "publisher": 19,
+        "pubdate": "2023-04-03",
+        "authors": [
+            66
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 66,
+    "fields": {
+        "name": "Book 66",
+        "pages": 67,
+        "price": "1.36",
+        "rating": 3.1,
+        "publisher": 27,
+        "pubdate": "2023-04-03",
+        "authors": [
+            14,
+            59
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 67,
+    "fields": {
+        "name": "Book 67",
+        "pages": 375,
+        "price": "21.68",
+        "rating": 0.6,
+        "publisher": 20,
+        "pubdate": "2023-04-03",
+        "authors": [
+            40,
+            63
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 68,
+    "fields": {
+        "name": "Book 68",
+        "pages": 519,
+        "price": "49.31",
+        "rating": 1.0,
+        "publisher": 17,
+        "pubdate": "2023-04-03",
+        "authors": [
+            15
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 69,
+    "fields": {
+        "name": "Book 69",
+        "pages": 935,
+        "price": "19.28",
+        "rating": 2.7,
+        "publisher": 25,
+        "pubdate": "2023-04-03",
+        "authors": [
+            17,
+            40
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 70,
+    "fields": {
+        "name": "Book 70",
+        "pages": 659,
+        "price": "15.41",
+        "rating": 2.3,
+        "publisher": 3,
+        "pubdate": "2023-04-03",
+        "authors": [
+            24
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 71,
+    "fields": {
+        "name": "Book 71",
+        "pages": 246,
+        "price": "1.89",
+        "rating": 2.7,
+        "publisher": 18,
+        "pubdate": "2023-04-03",
+        "authors": [
+            24,
+            42
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 72,
+    "fields": {
+        "name": "Book 72",
+        "pages": 887,
+        "price": "31.99",
+        "rating": 4.7,
+        "publisher": 28,
+        "pubdate": "2023-04-03",
+        "authors": [
+            10,
+            61
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 73,
+    "fields": {
+        "name": "Book 73",
+        "pages": 841,
+        "price": "7.26",
+        "rating": 0.2,
+        "publisher": 13,
+        "pubdate": "2023-04-03",
+        "authors": [
+            24,
+            51
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 74,
+    "fields": {
+        "name": "Book 74",
+        "pages": 567,
+        "price": "15.82",
+        "rating": 4.8,
+        "publisher": 20,
+        "pubdate": "2023-04-03",
+        "authors": [
+            56,
+            67
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 75,
+    "fields": {
+        "name": "Book 75",
+        "pages": 278,
+        "price": "33.76",
+        "rating": 4.9,
+        "publisher": 16,
+        "pubdate": "2023-04-03",
+        "authors": [
+            16,
+            42
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 76,
+    "fields": {
+        "name": "Book 76",
+        "pages": 533,
+        "price": "14.55",
+        "rating": 1.4,
+        "publisher": 15,
+        "pubdate": "2023-04-03",
+        "authors": [
+            65
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 77,
+    "fields": {
+        "name": "Book 77",
+        "pages": 146,
+        "price": "22.37",
+        "rating": 2.7,
+        "publisher": 3,
+        "pubdate": "2023-04-03",
+        "authors": [
+            53,
+            70
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 78,
+    "fields": {
+        "name": "Book 78",
+        "pages": 684,
+        "price": "22.39",
+        "rating": 2.6,
+        "publisher": 19,
+        "pubdate": "2023-04-03",
+        "authors": [
+            16,
+            35
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 79,
+    "fields": {
+        "name": "Book 79",
+        "pages": 251,
+        "price": "45.08",
+        "rating": 4.8,
+        "publisher": 8,
+        "pubdate": "2023-04-03",
+        "authors": [
+            60
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 80,
+    "fields": {
+        "name": "Book 80",
+        "pages": 290,
+        "price": "34.64",
+        "rating": 0.7,
+        "publisher": 6,
+        "pubdate": "2023-04-03",
+        "authors": [
+            29,
+            30
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 81,
+    "fields": {
+        "name": "Book 81",
+        "pages": 919,
+        "price": "38.96",
+        "rating": 2.9,
+        "publisher": 14,
+        "pubdate": "2023-04-03",
+        "authors": [
+            39,
+            54
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 82,
+    "fields": {
+        "name": "Book 82",
+        "pages": 554,
+        "price": "49.52",
+        "rating": 1.3,
+        "publisher": 22,
+        "pubdate": "2023-04-03",
+        "authors": [
+            54
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 83,
+    "fields": {
+        "name": "Book 83",
+        "pages": 887,
+        "price": "19.69",
+        "rating": 4.2,
+        "publisher": 30,
+        "pubdate": "2023-04-03",
+        "authors": [
+            12,
+            56
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 84,
+    "fields": {
+        "name": "Book 84",
+        "pages": 110,
+        "price": "15.12",
+        "rating": 2.7,
+        "publisher": 22,
+        "pubdate": "2023-04-03",
+        "authors": [
+            8,
+            69
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 85,
+    "fields": {
+        "name": "Book 85",
+        "pages": 646,
+        "price": "17.41",
+        "rating": 2.9,
+        "publisher": 23,
+        "pubdate": "2023-04-03",
+        "authors": [
+            38,
+            66
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 86,
+    "fields": {
+        "name": "Book 86",
+        "pages": 470,
+        "price": "49.34",
+        "rating": 0.6,
+        "publisher": 24,
+        "pubdate": "2023-04-03",
+        "authors": [
+            19
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 87,
+    "fields": {
+        "name": "Book 87",
+        "pages": 259,
+        "price": "9.12",
+        "rating": 3.1,
+        "publisher": 2,
+        "pubdate": "2023-04-03",
+        "authors": [
+            26
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 88,
+    "fields": {
+        "name": "Book 88",
+        "pages": 293,
+        "price": "21.76",
+        "rating": 3.7,
+        "publisher": 8,
+        "pubdate": "2023-04-03",
+        "authors": [
+            23
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 89,
+    "fields": {
+        "name": "Book 89",
+        "pages": 962,
+        "price": "2.12",
+        "rating": 3.3,
+        "publisher": 28,
+        "pubdate": "2023-04-03",
+        "authors": [
+            8,
+            64
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 90,
+    "fields": {
+        "name": "Book 90",
+        "pages": 79,
+        "price": "14.96",
+        "rating": 4.0,
+        "publisher": 2,
+        "pubdate": "2023-04-03",
+        "authors": [
+            55
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 91,
+    "fields": {
+        "name": "Book 91",
+        "pages": 798,
+        "price": "9.77",
+        "rating": 0.4,
+        "publisher": 15,
+        "pubdate": "2023-04-03",
+        "authors": [
+            52
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 92,
+    "fields": {
+        "name": "Book 92",
+        "pages": 287,
+        "price": "14.44",
+        "rating": 0.6,
+        "publisher": 21,
+        "pubdate": "2023-04-03",
+        "authors": [
+            50
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 93,
+    "fields": {
+        "name": "Book 93",
+        "pages": 934,
+        "price": "33.62",
+        "rating": 1.7,
+        "publisher": 29,
+        "pubdate": "2023-04-03",
+        "authors": [
+            34
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 94,
+    "fields": {
+        "name": "Book 94",
+        "pages": 806,
+        "price": "34.02",
+        "rating": 2.5,
+        "publisher": 9,
+        "pubdate": "2023-04-03",
+        "authors": [
+            25,
+            29
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 95,
+    "fields": {
+        "name": "Book 95",
+        "pages": 406,
+        "price": "24.87",
+        "rating": 2.6,
+        "publisher": 11,
+        "pubdate": "2023-04-03",
+        "authors": [
+            9,
+            24
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 96,
+    "fields": {
+        "name": "Book 96",
+        "pages": 411,
+        "price": "10.52",
+        "rating": 2.2,
+        "publisher": 15,
+        "pubdate": "2023-04-03",
+        "authors": [
+            8,
+            25
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 97,
+    "fields": {
+        "name": "Book 97",
+        "pages": 942,
+        "price": "36.69",
+        "rating": 0.6,
+        "publisher": 8,
+        "pubdate": "2023-04-03",
+        "authors": [
+            38,
+            41
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 98,
+    "fields": {
+        "name": "Book 98",
+        "pages": 473,
+        "price": "44.40",
+        "rating": 2.8,
+        "publisher": 15,
+        "pubdate": "2023-04-03",
+        "authors": [
+            39
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 99,
+    "fields": {
+        "name": "Book 99",
+        "pages": 870,
+        "price": "12.72",
+        "rating": 4.7,
+        "publisher": 11,
+        "pubdate": "2023-04-03",
+        "authors": [
+            1
+        ]
+    }
+},
+{
+    "model": "books.book",
+    "pk": 100,
+    "fields": {
+        "name": "Book 100",
+        "pages": 618,
+        "price": "5.80",
+        "rating": 1.7,
+        "publisher": 16,
+        "pubdate": "2023-04-03",
+        "authors": [
+            56
+        ]
+    }
+},
+{
+    "model": "books.store",
+    "pk": 5,
+    "fields": {
+        "name": "Store 5",
+        "books": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            22,
+            24,
+            26,
+            28,
+            29,
+            30,
+            31,
+            32,
+            34,
+            35,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            45,
+            47,
+            48,
+            49,
+            50,
+            52,
+            53,
+            54,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            72,
+            74,
+            75,
+            77,
+            78,
+            79,
+            80,
+            82,
+            83,
+            84,
+            85,
+            87,
+            90,
+            91,
+            92,
+            94,
+            98,
+            100
+        ]
+    }
+},
+{
+    "model": "books.store",
+    "pk": 6,
+    "fields": {
+        "name": "Store 6",
+        "books": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            9,
+            12,
+            16,
+            17,
+            18,
+            24,
+            25,
+            27,
+            29,
+            30,
+            31,
+            32,
+            33,
+            35,
+            37,
+            38,
+            39,
+            40,
+            42,
+            43,
+            44,
+            46,
+            47,
+            48,
+            51,
+            52,
+            53,
+            55,
+            56,
+            57,
+            61,
+            62,
+            63,
+            68,
+            73,
+            74,
+            75,
+            78,
+            80,
+            81,
+            83,
+            84,
+            85,
+            87,
+            88,
+            89,
+            92,
+            93,
+            94,
+            95,
+            98,
+            100
+        ]
+    }
+},
+{
+    "model": "books.store",
+    "pk": 7,
+    "fields": {
+        "name": "Store 7",
+        "books": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            11,
+            12,
+            13,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            34,
+            35,
+            37,
+            38,
+            42,
+            43,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            64,
+            65,
+            66,
+            68,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            89,
+            90,
+            93,
+            94,
+            95,
+            97,
+            98,
+            99,
+            100
+        ]
+    }
+},
+{
+    "model": "book.publisher",
+    "pk": 72,
+    "fields": {
+        "name": "Gianna Nolcini"
+    }
+},
+{
+    "model": "book.publisher",
+    "pk": 73,
+    "fields": {
+        "name": "Julie Cain"
+    }
+},
+{
+    "model": "book.publisher",
+    "pk": 74,
+    "fields": {
+        "name": "Francesco Fibonacci"
+    }
+},
+{
+    "model": "book.publisher",
+    "pk": 75,
+    "fields": {
+        "name": "Ezio Tasso"
+    }
+},
+{
+    "model": "book.publisher",
+    "pk": 76,
+    "fields": {
+        "name": "Joseph Sweeney"
+    }
+},
+{
+    "model": "book.publisher",
+    "pk": 77,
+    "fields": {
+        "name": "Giada Gasperi"
+    }
+},
+{
+    "model": "book.publisher",
+    "pk": 78,
+    "fields": {
+        "name": "Andrea Miller"
+    }
+},
+{
+    "model": "book.publisher",
+    "pk": 79,
+    "fields": {
+        "name": "Raffaella Pisani-Zabarella"
+    }
+},
+{
+    "model": "book.publisher",
+    "pk": 80,
+    "fields": {
+        "name": "Beatrice Brunello"
+    }
+},
+{
+    "model": "book.publisher",
+    "pk": 81,
+    "fields": {
+        "name": "Cynthia Lewis"
+    }
+},
+{
+    "model": "book.publisher",
+    "pk": 82,
+    "fields": {
+        "name": "Annamaria Montalti"
+    }
+},
+{
+    "model": "book.publisher",
+    "pk": 83,
+    "fields": {
+        "name": "Mr. Robert Shaw Jr."
+    }
+},
+{
+    "model": "book.publisher",
+    "pk": 84,
+    "fields": {
+        "name": "Pellegrino Barracco"
+    }
+},
+{
+    "model": "book.publisher",
+    "pk": 85,
+    "fields": {
+        "name": "Tina Mercati"
+    }
