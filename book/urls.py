@@ -1,18 +1,20 @@
-from book import views
-
 from django.urls import path
 
-app_name = 'book_store'
+from . import views
 
-urlpatterns = [path('', views.index, name='index'),
-               path('publisher/', views.publisher, name='publisher'),
-               path('publisher/<int:publisher_id>', views.publisher_all_book, name='publisher_all_book'),
-               path('books/', views.books, name='books'),
-               path('books_list/', views.books_list, name='books_list'),
-               path('books_detail/<int:ids>', views.books_detail, name='books_detail'),
-               path('author/', views.author, name='author'),
-               path('author/<int:min_author>', views.author_book_min, name='author_book_min'),
-               path('author/<int:max_author>', views.author_book_max, name='author_book_max'),
-               path('store/', views.store, name='store'),
-               path('store_books/<int:store_id>', views.store_books, name='store_books'),
-               ]
+app_name = 'book'
+urlpatterns = [
+    path('', views.index, name='index'),
+    path('book/', views.BookListView.as_view(), name='book_list'),
+    path('book/<int:pk>', views.BookDetailView.as_view(), name='book'),
+    path('book/create', views.BookCreateView.as_view(), name='book.create'),
+    path('book/<int:pk>/update', views.BookUpdateView.as_view(), name='bookupdated'),
+    path('book/<int:pk>/delete', views.BookDeleteView.as_view(), name='book.delete'),
+    path('authors/', views.author_list, name='author_list'),
+    path('authors/<int:pk>', views.author, name='author'),
+    path('publishers/', views.publisher_list, name='publisher_list'),
+    path('publishers/<int:pk>', views.publisher, name='publisher'),
+    path('stores/', views.store_list, name='store_list'),
+    path('stores/<int:pk>', views.store, name='store'),
+
+]
